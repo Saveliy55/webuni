@@ -469,7 +469,7 @@ body{
 }
 .kvadrat4{
     width: 50%;
-    height: 1060px;
+    min-height: 800px;
     background-color: rgb(255, 0, 34);
     display: flex;
     justify-content: center;
